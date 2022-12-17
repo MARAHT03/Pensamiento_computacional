@@ -73,7 +73,7 @@ Realiza un algoritmo para un programa que solicite al usuario su nombre y le sal
 	Escribir "Ingrese su nombre";
 	Leer Nombre;
 	
-	Escribir " Hola ", Nombre, " Gusto en saludarte" " /n Deseo que tengas un excelente día";
+	Escribir " Hola ", Nombre, " Gusto en saludarte. Deseo que tengas un excelente día";
 	
       FinAlgoritmo
 
